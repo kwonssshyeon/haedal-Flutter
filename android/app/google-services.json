@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110372724859",
+    "project_id": "haedal-flutter",
+    "storage_bucket": "haedal-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110372724859:android:5c7597c4b2594f2e2902de",
+        "android_client_info": {
+          "package_name": "com.example.first_prj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110372724859-f0p757b6c6eieo095p176psl8jt385nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVu0ZEPxU1tzbJIfmPzeMeSYytvaE3Bqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110372724859-f0p757b6c6eieo095p176psl8jt385nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
